@@ -1,0 +1,8 @@
+# This is a comment.
+# This is a "NQJson" file -- "not quite" JSON
+{
+  "credential_list": [  # This is also a comment.
+    {"username": "username_xyz", "password": "secret"},
+    {"username": "username_abc", "password": "another_secret"}
+  ]
+}

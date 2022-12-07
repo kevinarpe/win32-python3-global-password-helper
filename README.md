@@ -3,7 +3,7 @@ Win32 Python Global Password Helper
 
 Are you forced to use Microsoft Windows?
 
-Are you forced to remember numerous shared passwords?
+Are you forced to remember many shared passwords?
 
 This app will help you.
 
